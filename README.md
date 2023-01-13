@@ -1,7 +1,7 @@
 TThis project is a machine learning regression model that predicts the output temperature of a cement calciner using various input features. Calcination is a process where calcium carbonate is converted to calcium oxide and carbon dioxide, and several physical and chemical factors govern the process. Machine learning algorithms are powerful tools which are able to perform better on numerical data with one or more dependent variable and a series of independent variable.
 
 Getting Started
-Clone the repository: git clone https://github.com/your-username/calciner-temp-model.git
+Clone the repository: git clone https://github.com/f1133/Python_projects.git
 Navigate to the project directory: cd calciner-temp-model
 Install the necessary dependencies
 Use the CalcinerModel(small).h5 script to make predictions on new data
